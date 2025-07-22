@@ -14,12 +14,11 @@
         <p> Tu to nájdeš všetky odkazy na zaujímaovosti ktoré si vieš pozrieť.</p>
         <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sk.wikipedia.org/wiki/Subtropick%25C3%25A9_p%25C3%25A1smo&ved=2ahUKEwiA--yeqdCOAxV8RvEDHd76AXcQFnoECB4QAQ&usg=AOvVaw2MyMDhPR6yq1oNx5IPjJWd" target="_red">Klikni sem pre viac informácií o subtropickom pásme </a>
         
-        <img src="![Bačina2](https://github.com/user-attachments/assets/7712247e-7e07-48ae-bfd6-c5dac72bbf0b)" 
-
+    
 
 
     
-        2025 wiki.org
+        2025 Katka
 
 </body>
 </html>
